@@ -1,1 +1,3 @@
-# programacion
+# Programando
+La idea de este repo en git es que ademas de aprender a programar, aprendan a usar git, ya que se usa mucho en la diara...  
+Voy a crear una carpeta por reto, en la cual cada uno va a crear una subcarpeta con su nombre de discord y subir ahi su resolicion
